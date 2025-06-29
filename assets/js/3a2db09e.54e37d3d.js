@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"idioms","permalink":"/blog/tags/idioms","description":"\uc758\ubbf8\uac00 \ub2e8\uc5b4 \uadf8\ub300\ub85c \ud574\uc11d\ub418\uc9c0 \uc54a\ub294 \uc601\uc5b4 \uad00\uc6a9\uad6c","count":1}]}')}}]);
