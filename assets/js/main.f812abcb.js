@@ -6775,7 +6775,7 @@ __webpack_require__.r(__webpack_exports__);
       ]
     },
     "colorMode": {
-      "disableSwitch": true,
+      "disableSwitch": false,
       "respectPrefersColorScheme": true,
       "defaultMode": "light"
     },
