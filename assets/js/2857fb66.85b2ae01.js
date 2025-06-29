@@ -1,7 +1,7 @@
 "use strict";
-(self["webpackChunkwebsite"] = self["webpackChunkwebsite"] || []).push([[877],{
+(self["webpackChunkwebsite"] = self["webpackChunkwebsite"] || []).push([[933],{
 
-/***/ 295:
+/***/ 2165:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
@@ -24,7 +24,7 @@ const frontMatter = {
 	authors: [],
 	date: '2025-06-28T10:00',
 	tags: [
-		'idioms'
+		'관용구'
 	]
 };
 const contentTitle = undefined;
@@ -39,11 +39,27 @@ const toc = [{
   "value": "의미",
   "id": "의미",
   "level": 3
+}, {
+  "value": "설명",
+  "id": "설명",
+  "level": 3
+}, {
+  "value": "예문",
+  "id": "예문",
+  "level": 3
+}, {
+  "value": "유사한 영어 표현",
+  "id": "유사한-영어-표현",
+  "level": 3
 }];
 function _createMdxContent(props) {
   const _components = {
+    admonition: "admonition",
     h3: "h3",
+    li: "li",
     p: "p",
+    strong: "strong",
+    ul: "ul",
     ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
     ...props.components
   };
@@ -55,6 +71,52 @@ function _createMdxContent(props) {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("code", {
         children: "Break the ice"
       }), "는 어색하거나 긴장된 분위기를 깨고 편안하게 만드는 것을 의미합니다."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "설명",
+      children: "설명"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "처음 만난 사람들과 대화를 시작하거나, 조용하고 어색한 상황에서 분위기를 부드럽게 만들 때 사용하는 표현입니다."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "예문",
+      children: "예문"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
+      type: "info",
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "At the party, John told a funny story to break the ice."
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("br", {}), "\n(파티에서 John은 어색한 분위기를 깨기 위해 재미있는 이야기를 했다.)"]
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
+      type: "info",
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "The teacher played a game to break the ice on the first day of class."
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("br", {}), "\n(선생님은 첫 수업 날에 어색한 분위기를 깨기 위해 게임을 했다.)"]
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
+      type: "info",
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "A good joke can help break the ice when meeting new people."
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("br", {}), "\n(새로운 사람을 만날 때 좋은 농담은 어색함을 풀어줄 수 있다.)"]
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "유사한-영어-표현",
+      children: "유사한 영어 표현"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "Get the ball rolling"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "Start the conversation"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "Warm up the atmosphere"
+        })
+      }), "\n"]
     })]
   });
 }
@@ -78,7 +140,7 @@ function MDXContent(props = {}) {
 /***/ 4636:
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"permalink":"/blog/break-the-ice","source":"@site/blog/2025-06-28-break-the-ice/index.md","title":"Break the ice","description":"의미","date":"2025-06-28T10:00:00.000Z","tags":[{"inline":false,"label":"idioms","permalink":"/blog/tags/idioms","description":"의미가 단어 그대로 해석되지 않는 영어 관용구"}],"readingTime":0.61,"hasTruncateMarker":true,"authors":[],"frontMatter":{"slug":"break-the-ice","title":"Break the ice","authors":[],"date":"2025-06-28T10:00","tags":["idioms"]},"unlisted":false}');
+module.exports = /*#__PURE__*/JSON.parse('{"permalink":"/blog/break-the-ice","source":"@site/blog/2025-06-28-break-the-ice/index.md","title":"Break the ice","description":"의미","date":"2025-06-28T10:00:00.000Z","tags":[{"inline":true,"label":"관용구","permalink":"/blog/tags/관용구"}],"readingTime":0.61,"hasTruncateMarker":true,"authors":[],"frontMatter":{"slug":"break-the-ice","title":"Break the ice","authors":[],"date":"2025-06-28T10:00","tags":["관용구"]},"unlisted":false}');
 
 /***/ }),
 
