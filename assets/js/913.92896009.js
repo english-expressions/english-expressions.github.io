@@ -1,4 +1,4 @@
-(self["webpackChunkwebsite"] = self["webpackChunkwebsite"] || []).push([[838],{
+(self["webpackChunkwebsite"] = self["webpackChunkwebsite"] || []).push([[913],{
 
 /***/ 812:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -756,8 +756,8 @@ className?.includes('contains-task-list')&&Ul_styles_module.containsTaskList);}f
  * LICENSE file in the root directory of this source tree.
  */function transformImgClassName(className){return (0,clsx/* default */.A)(className,Img_styles_module.img);}function MDXImg(props){return(/*#__PURE__*/// eslint-disable-next-line jsx-a11y/alt-text
 (0,jsx_runtime.jsx)("img",{decoding:"async",loading:"lazy",...props,className:transformImgClassName(props.className)}));}
-// EXTERNAL MODULE: ./node_modules/.pnpm/@docusaurus+theme-classic@3.8.1_@types+react@19.1.8_acorn@8.15.0_react-dom@19.1.0_react_58a32f521a68200d0a0528fd0de718ff/node_modules/@docusaurus/theme-classic/lib/theme/Admonition/index.js + 15 modules
-var Admonition = __webpack_require__(812);
+// EXTERNAL MODULE: ./src/theme/Admonition.tsx
+var Admonition = __webpack_require__(1479);
 // EXTERNAL MODULE: ./node_modules/.pnpm/@docusaurus+core@3.8.1_@mdx-js+react@3.1.0_@types+react@19.1.8_react@19.1.0__acorn@8.15_748ba51041b8ac3576a761f0834a8595/node_modules/@docusaurus/core/lib/client/exports/Noop.js
 var Noop = __webpack_require__(7274);
 ;// ./node_modules/.pnpm/@docusaurus+theme-classic@3.8.1_@types+react@19.1.8_acorn@8.15.0_react-dom@19.1.0_react_58a32f521a68200d0a0528fd0de718ff/node_modules/@docusaurus/theme-classic/lib/theme/MDXComponents/index.js
