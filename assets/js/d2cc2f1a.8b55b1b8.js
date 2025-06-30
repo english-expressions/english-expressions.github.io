@@ -1,7 +1,7 @@
 "use strict";
-(self["webpackChunkwebsite"] = self["webpackChunkwebsite"] || []).push([[933],{
+(self["webpackChunkwebsite"] = self["webpackChunkwebsite"] || []).push([[141],{
 
-/***/ 2165:
+/***/ 156:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
@@ -10,19 +10,19 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   contentTitle: () => (/* binding */ contentTitle),
 /* harmony export */   "default": () => (/* binding */ MDXContent),
 /* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_06_28_break_the_ice_index_md_285_json__WEBPACK_IMPORTED_MODULE_0__),
+/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_06_29_hit_the_nail_on_the_head_index_md_80e_json__WEBPACK_IMPORTED_MODULE_0__),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_06_28_break_the_ice_index_md_285_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4636);
+/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_blog_default_site_blog_2025_06_29_hit_the_nail_on_the_head_index_md_80e_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2409);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3420);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5404);
 
 
 const frontMatter = {
-	slug: 'break-the-ice',
-	title: 'Break the ice',
+	slug: 'hit-the-nail-on-the-head',
+	title: 'Hit the nail on the head',
 	authors: [],
-	date: '2025-06-28T10:00',
+	date: '2025-06-29T16:00',
 	tags: [
 		'관용구'
 	]
@@ -39,27 +39,11 @@ const toc = [{
   "value": "의미",
   "id": "의미",
   "level": 3
-}, {
-  "value": "설명",
-  "id": "설명",
-  "level": 3
-}, {
-  "value": "예문",
-  "id": "예문",
-  "level": 3
-}, {
-  "value": "유사한 영어 표현",
-  "id": "유사한-영어-표현",
-  "level": 3
 }];
 function _createMdxContent(props) {
   const _components = {
-    admonition: "admonition",
     h3: "h3",
-    li: "li",
     p: "p",
-    strong: "strong",
-    ul: "ul",
     ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
     ...props.components
   };
@@ -69,54 +53,8 @@ function _createMdxContent(props) {
       children: "의미"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("code", {
-        children: "Break the ice"
-      }), "는 어색하거나 긴장된 분위기를 깨고 편안하게 만드는 것을 의미합니다."]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
-      id: "설명",
-      children: "설명"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "처음 만난 사람들과 대화를 시작하거나, 조용하고 어색한 상황에서 분위기를 부드럽게 만들 때 사용하는 표현입니다."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
-      id: "예문",
-      children: "예문"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
-      type: "info",
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-          children: "At the party, John told a funny story to break the ice."
-        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("br", {}), "\n(파티에서 John은 어색한 분위기를 깨기 위해 재미있는 이야기를 했다.)"]
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
-      type: "info",
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-          children: "The teacher played a game to break the ice on the first day of class."
-        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("br", {}), "\n(선생님은 첫 수업 날에 어색한 분위기를 깨기 위해 게임을 했다.)"]
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
-      type: "info",
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-          children: "A good joke can help break the ice when meeting new people."
-        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("br", {}), "\n(새로운 사람을 만날 때 좋은 농담은 어색함을 풀어줄 수 있다.)"]
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
-      id: "유사한-영어-표현",
-      children: "유사한 영어 표현"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-          children: "Get the ball rolling"
-        })
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-          children: "Start the conversation"
-        })
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-          children: "Warm up the atmosphere"
-        })
-      }), "\n"]
+        children: "Hit the nail on the head"
+      }), "는 문제의 핵심을 정확히 짚다, 또는 정곡을 찌르다는 의미입니다."]
     })]
   });
 }
@@ -137,10 +75,10 @@ function MDXContent(props = {}) {
 
 /***/ }),
 
-/***/ 4636:
+/***/ 2409:
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"permalink":"/blog/break-the-ice","source":"@site/blog/2025-06-28-break-the-ice/index.md","title":"Break the ice","description":"의미","date":"2025-06-28T10:00:00.000Z","tags":[{"inline":true,"label":"관용구","permalink":"/blog/tags/관용구"}],"readingTime":0.61,"hasTruncateMarker":true,"authors":[],"frontMatter":{"slug":"break-the-ice","title":"Break the ice","authors":[],"date":"2025-06-28T10:00","tags":["관용구"]},"unlisted":false}');
+module.exports = /*#__PURE__*/JSON.parse('{"permalink":"/blog/hit-the-nail-on-the-head","source":"@site/blog/2025-06-29-hit-the-nail-on-the-head/index.md","title":"Hit the nail on the head","description":"의미","date":"2025-06-29T16:00:00.000Z","tags":[{"inline":true,"label":"관용구","permalink":"/blog/tags/관용구"}],"readingTime":0.98,"hasTruncateMarker":true,"authors":[],"frontMatter":{"slug":"hit-the-nail-on-the-head","title":"Hit the nail on the head","authors":[],"date":"2025-06-29T16:00","tags":["관용구"]},"unlisted":false,"nextItem":{"title":"Break the ice","permalink":"/blog/break-the-ice"}}');
 
 /***/ }),
 
