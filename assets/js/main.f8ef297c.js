@@ -6797,6 +6797,16 @@ __webpack_require__.r(__webpack_exports__);
       "maxHeadingLevel": 3
     }
   },
+  "headTags": [
+    {
+      "tagName": "script",
+      "attributes": {
+        "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8550271370696297",
+        "async": "true",
+        "crossorigin": "anonymous"
+      }
+    }
+  ],
   "plugins": [
     "./src/plugins/tailwind-config.js"
   ],
@@ -6809,7 +6819,6 @@ __webpack_require__.r(__webpack_exports__);
   "customFields": {},
   "themes": [],
   "scripts": [],
-  "headTags": [],
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
