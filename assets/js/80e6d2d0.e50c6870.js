@@ -4,7 +4,7 @@
 /***/ 2409:
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"permalink":"/blog/hit-the-nail-on-the-head","source":"@site/blog/2025-06-29-hit-the-nail-on-the-head/index.md","title":"Hit the nail on the head","description":"의미","date":"2025-06-29T16:00:00.000Z","tags":[{"inline":true,"label":"관용구","permalink":"/blog/tags/관용구"}],"readingTime":0.98,"hasTruncateMarker":true,"authors":[],"frontMatter":{"slug":"hit-the-nail-on-the-head","title":"Hit the nail on the head","authors":[],"date":"2025-06-29T16:00","tags":["관용구"]},"unlisted":false,"nextItem":{"title":"Break the ice","permalink":"/blog/break-the-ice"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"permalink":"/blog/hit-the-nail-on-the-head","source":"@site/blog/2025-06-29-hit-the-nail-on-the-head/index.md","title":"Hit the nail on the head","description":"의미","date":"2025-06-29T16:00:00.000Z","tags":[{"inline":true,"label":"관용구","permalink":"/blog/tags/관용구"}],"readingTime":1.02,"hasTruncateMarker":true,"authors":[],"frontMatter":{"slug":"hit-the-nail-on-the-head","title":"Hit the nail on the head","authors":[],"date":"2025-06-29T16:00","tags":["관용구"]},"unlisted":false,"nextItem":{"title":"Break the ice","permalink":"/blog/break-the-ice"}}');
 
 /***/ }),
 
@@ -87,35 +87,40 @@ function _createMdxContent(props) {
       id: "예문",
       children: "예문"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
-      type: "info",
+      title: "Example 1",
+      type: "tip",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
         children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
           children: "You really hit the nail on the head with your analysis of the problem."
         }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("br", {}), "\n(문제에 대한 너의 분석은 정말 정곡을 찔렀어.)"]
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
-      type: "info",
+      title: "Example 2",
+      type: "tip",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
         children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
           children: "She hit the nail on the head when she said we need better communication."
         }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("br", {}), "\n(우리가 더 나은 소통이 필요하다고 말했을 때 그녀는 핵심을 정확히 짚었다.)"]
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
-      type: "info",
+      title: "Example 3",
+      type: "tip",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
         children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
           children: "His comment about the team's lack of motivation hit the nail on the head."
         }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("br", {}), "\n(팀의 동기 부족에 대한 그의 지적은 정확히 맞아떨어졌다.)"]
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
-      type: "info",
+      title: "Example 4",
+      type: "tip",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
         children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
           children: "When he said the project failed due to poor planning, he hit the nail on the head."
         }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("br", {}), "\n(그가 프로젝트가 잘못된 계획 때문에 실패했다고 말했을 때, 그는 정곡을 찔렀다.)"]
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.admonition, {
-      type: "info",
+      title: "Example 5",
+      type: "tip",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
         children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
           children: "Her feedback hit the nail on the head — we do need more training."
